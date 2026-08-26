@@ -6,16 +6,31 @@
 }
 #cuadro-inicio{
     width: 300px;
-    height: 350px;
+    height: 380px;
     background-color: #5C7490;
     color: white;
     text-align: center;
     padding-top: 15px;
 }
 body{
-    background-color: #ACB7C3;
+    background-color: #142133;
 }
 img{
     width: 150px;
     height: 150px;
+    padding-bottom: 15px;
+}
+#username{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 10px;
+}
+#password{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    padding-left: 10px;
 }
