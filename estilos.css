@@ -1,4 +1,13 @@
 .h1{
     color: #5C7490;
     font-size: 50px;
+    text-align: center;
+}
+#cuadro-inicio{
+    width: 100%;
+    height: 100%;
+    background-color: #5C7490;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
 }
