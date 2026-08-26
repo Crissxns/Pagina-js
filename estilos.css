@@ -1,8 +1,10 @@
-.h1{
+#titulo{
     color: #5C7490;
-    font-size: 50px;
+    font-size: 20px;
     text-align: center;
     background-color: #ACB7C3;
+    width: 60%;
+    height: 60%;
 }
 #cuadro-inicio{
     width: 300px;
