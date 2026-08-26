@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #titulo{
     color: #5C7490;
     font-size: 20px;
@@ -35,4 +36,40 @@ img{
     border-radius: 5px;
     border: none;
     padding-left: 10px;
+=======
+body{
+    background: linear-gradient(to right, #1B263B, #415A77) ;
+}
+.header{
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #778DA9;
+    font-family: monospace;
+    font-weight: bolder;
+    text-align: center;
+    width: 700px;
+    background-color: #1B263B;
+    color: #E0E1DD;
+    margin-top: 20px;
+}
+h2{
+    color: #E0E1DD;
+}
+input{
+    background-color: #E0E1DD;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 8px;
+    border-color:#778DA9;
+}
+.Entrada{
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #E0E1DD;
+    width: 800px;
+    height: 550px;
+    margin-top: 10px;
+    background-color: #1B263B;
+box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
+>>>>>>> a35dc61ebd46277798e80523942af5afec580ad7
 }
