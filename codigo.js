@@ -8,7 +8,7 @@ function inicio() {
     if (Contraseña === "") {
         alert("Por favor ingrese una contraseña");
     } else if (Contraseña !== Contraseñaconfir) {
-        alert("Error: Las contraseñas no coinciden");
+        alert("las contraseñas no coinciden");
     } else {
         alert("¡Gracias por registrarte! Bienvenido " + Usuario);
     }

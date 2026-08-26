@@ -20,6 +20,8 @@ input{
     background-color: #E0E1DD;
     height: 30px;
     font-size: 20px;
+    border-radius: 8px;
+    border-color:#778DA9;
 }
 .Entrada{
     border-radius: 3px;
