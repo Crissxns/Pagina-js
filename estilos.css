@@ -1,0 +1,11 @@
+.header{
+    border-radius: 3px;
+    border-style: solid;
+    border-color: #0D1B2A;
+    font-family: monospace;
+    font-weight: bolder;
+    text-align: center;
+    width: 700px;
+    background-color: #778DA9;
+    color: #E0E1DD;
+}
